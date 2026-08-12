@@ -15,7 +15,7 @@
     "blobshape": "^1.0.0",
     "bright": "^1.0.0",
     "markdown-to-jsx": "^7.7.16",
-    "next": "^16.0.8",
+    "next": "^16.3.0",
     "react": "19.2.7",
     "react-dom": "19.2.7",
     "unique-names-generator": "^4.7.1"
